@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeepItSimpIe
 - 👀 I’m interested in programing and computers in general and want to delve deeper into cybersecurity.
-- 🌱 I’m currently learning the basics of programming, has the fundamentals are important.
-- 💞️ I’m looking to collaborate pretty much anything once i get more experience.
+- 🌱 I’m currently learning the basics of programming, as the fundamentals are important.
+- 💞️ I’m looking to collaborate on pretty much anything once I get more experience.
 - ⚡ Fun fact: I like assembly.
 
 <!---
